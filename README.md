@@ -1,5 +1,5 @@
 # Madara HotStuff 
-Welcome to the code repository for the HotStuff consensus implemented for Madara and Substrate.
+Welcome to the code repository for the HotStuff consensus implemented for [Madara](https://github.com/keep-starknet-strange/madara) and [Substrate](https://github.com/paritytech/polkadot-sdk).
 
 ## Introduction
 This repository includes:
